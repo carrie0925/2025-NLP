@@ -1,0 +1,24 @@
+# Python 環境與暫存檔
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+.env
+.ipynb_checkpoints/
+
+# 模型檔案
+*.model
+*.kv
+*.npy
+*.syn1neg.npy
+*.wv.vectors.npy
+
+# wiki dataset
+*.txt
+*.gz
+*.part
+
+# macOS / VSCode
+.DS_Store
+.vscode/
