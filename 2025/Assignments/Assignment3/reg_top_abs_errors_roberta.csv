@@ -1,0 +1,21 @@
+premise,hypothesis,y_reg_true,y_reg_pred,reg_abs_err,y_cls_true,y_cls_pred
+A person is performing tricks on a motorcycle,The performer is tricking a person on a motorcycle,2.5999999046325684,5.157047271728516,2.5570473670959473,0,1
+A small girl is riding in a toy car,A small toy girl is in a riding car,2.700000047683716,5.103034973144531,2.4030349254608154,0,1
+The air is tricking a performing cyclist,The cyclist is performing a trick in the air,2.400000095367432,4.538630485534668,2.1386303901672363,0,1
+Someone is boiling okra in a pot,Someone is being boiled with okra in a pot,2.700000047683716,4.834507465362549,2.134507417678833,0,1
+A dead bird is near a black man sitting on a tree,A black bird is sitting on a dead tree,2.0999999046325684,4.220243453979492,2.120243549346924,0,1
+The man is playing the guitar and has the guitar case open for donations,The man is opening the guitar for donations and plays with the case,2.700000047683716,4.819174289703369,2.1191742420196533,0,1
+A woman is showing a dog with very short hair at a dog show,A woman is showing a dog with very long hair at a dog show,3.0999999046325684,5.2132062911987305,2.113206386566162,2,1
+The patient is helping the doctor,The doctors are reviving a man,1.7999999523162842,3.861371755599976,2.061371803283692,0,0
+A man is holding a sign and is seeking money,A man is seeking a sign and is holding some money,3.0,5.06004810333252,2.0600481033325204,0,1
+The lady is carefully slicing up the meat,The lady is cracking an egg for the mixer,3.200000047683716,1.185619831085205,2.0143802165985107,0,0
+A cowgirl is riding a barrel near a horse in the corner,A cowgirl is riding a horse and corners a barrel,2.799999952316284,4.759095668792725,1.9590957164764404,0,1
+The windows are being cleaned by a man,The man has a window of time to clean himself,1.75,3.699279546737671,1.949279546737671,0,0
+A dog is opening a can of food,A dog is closing a can of food,3.0,4.924981117248535,1.9249811172485352,0,1
+A man is catching a fish,A woman is deboning a fish,3.400000095367432,1.4929966926574707,1.907003402709961,0,0
+A dog is chasing another and is holding a stick in its mouth,A dog is chasing a stick and holding another dog in its mouth,3.200000047683716,5.084156036376953,1.8841559886932373,0,1
+A woman is coating a pork chop,Carrots are being grated by a woman,1.899999976158142,3.7717244625091553,1.8717244863510132,0,0
+The man is taking a picture of himself and another guy,An electronic man is held as a device,1.899999976158142,3.76949691772461,1.8694969415664677,0,0
+The kittens on the trays are being eaten as food for an advertisement,Some kittens are eating,2.700000047683716,4.551248073577881,1.851248025894165,0,1
+The guitar is being sold by a lady,The guitar is being played by a lady,3.0999999046325684,4.934435844421387,1.8344359397888184,0,1
+A girl is on a jumping car,One girl is jumping on the car,3.200000047683716,4.999815940856934,1.7998158931732178,1,1
