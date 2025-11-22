@@ -1,0 +1,306 @@
+{
+    "Experiment": "Retrieval k=1",
+    "Accuracy": 0.16,
+    "Details": [
+        {
+            "Query": "How much of a day do cats spend sleeping?",
+            "Ground_Truth": "Two thirds",
+            "Prediction": "Unknown",
+            "Correct": 0
+        },
+        {
+            "Query": "Why don't cats have a sweet tooth?",
+            "Ground_Truth": "Taste mutation",
+            "Prediction": "Unknown",
+            "Correct": 0
+        },
+        {
+            "Query": "How do cats keep their heads when chasing prey?",
+            "Ground_Truth": "Head level",
+            "Prediction": "Unknown",
+            "Correct": 0
+        },
+        {
+            "Query": "What is the technical term for a cat's hairball?",
+            "Ground_Truth": "Bezoar",
+            "Prediction": "Bezoar",
+            "Correct": 1
+        },
+        {
+            "Query": "What is a group of cats called?",
+            "Ground_Truth": "Clowder",
+            "Prediction": "Clowder",
+            "Correct": 1
+        },
+        {
+            "Query": "Which paw do most female cats prefer?",
+            "Ground_Truth": "Right paw",
+            "Prediction": "Right \n90",
+            "Correct": 0
+        },
+        {
+            "Query": "Why can't cats climb down trees head first?",
+            "Ground_Truth": "Claw direction",
+            "Prediction": "Unknown",
+            "Correct": 0
+        },
+        {
+            "Query": "How many sounds do cats make?",
+            "Ground_Truth": "About 100",
+            "Prediction": "About\nUnknown",
+            "Correct": 0
+        },
+        {
+            "Query": "Which animal's brain is most similar to a human's: cat or dog?",
+            "Ground_Truth": "Cat",
+            "Prediction": "Unknown",
+            "Correct": 0
+        },
+        {
+            "Query": "How many domestic cats exist worldwide?",
+            "Ground_Truth": "500 million",
+            "Prediction": "500",
+            "Correct": 0
+        },
+        {
+            "Query": "Where was the oldest known pet cat found?",
+            "Ground_Truth": "Cyprus",
+            "Prediction": "Cyprus",
+            "Correct": 1
+        },
+        {
+            "Query": "What resulted from burning cats during the Spanish Inquisition?",
+            "Ground_Truth": "More rats",
+            "Prediction": "Unknown",
+            "Correct": 0
+        },
+        {
+            "Query": "What happened to cats on St. John's Day in the Middle Ages?",
+            "Ground_Truth": "Burned",
+            "Prediction": "Beheaded\nUnknown",
+            "Correct": 0
+        },
+        {
+            "Query": "Which pet is more popular in North America, cats or dogs?",
+            "Ground_Truth": "Cats",
+            "Prediction": "Unknown",
+            "Correct": 0
+        },
+        {
+            "Query": "What was the name of the first cat in space?",
+            "Ground_Truth": "Felicette",
+            "Prediction": "Felicette",
+            "Correct": 1
+        },
+        {
+            "Query": "What does the Latin word catus mean?",
+            "Ground_Truth": "Domestic cat",
+            "Prediction": "catus",
+            "Correct": 0
+        },
+        {
+            "Query": "What sound might \"puss\" imitate?",
+            "Ground_Truth": "Hissing",
+            "Prediction": "hiss",
+            "Correct": 0
+        },
+        {
+            "Query": "How many people are bitten by cats annually in the U.S.?",
+            "Ground_Truth": "40,000",
+            "Prediction": "Unknown",
+            "Correct": 0
+        },
+        {
+            "Query": "According to legend, how did God create the first cat on Noah's ark?",
+            "Ground_Truth": "Lion sneeze",
+            "Prediction": "Bezoar 10\nClowder 100",
+            "Correct": 0
+        },
+        {
+            "Query": "Whose hearing is better: a cat's or a dog's?",
+            "Ground_Truth": "Cat's",
+            "Prediction": "100 2",
+            "Correct": 0
+        },
+        {
+            "Query": "What is a cat's top running speed?",
+            "Ground_Truth": "31 mph",
+            "Prediction": "100\n0\n1",
+            "Correct": 0
+        },
+        {
+            "Query": "How high can a cat jump relative to its height?",
+            "Ground_Truth": "Five times",
+            "Prediction": "7 ",
+            "Correct": 0
+        },
+        {
+            "Query": "What helps cats survive long falls?",
+            "Ground_Truth": "Righting reflex",
+            "Prediction": "Bezoar 65",
+            "Correct": 0
+        },
+        {
+            "Query": "Why do cats rub against people?",
+            "Ground_Truth": "Mark territory",
+            "Prediction": "Beard 1 2\nUnknown \nClowder 3",
+            "Correct": 0
+        },
+        {
+            "Query": "How many times per second might a cat's larynx open and close while purring?",
+            "Ground_Truth": "Twenty five",
+            "Prediction": "25",
+            "Correct": 0
+        },
+        {
+            "Query": "How did Egyptians mourn a family cat's death?",
+            "Ground_Truth": "Shaved eyebrows",
+            "Prediction": "Clowder 100 Unknown",
+            "Correct": 0
+        },
+        {
+            "Query": "What were 300,000 mummified cats once used for?",
+            "Ground_Truth": "Fertilizer",
+            "Prediction": "Unknown",
+            "Correct": 0
+        },
+        {
+            "Query": "What is the typical size of a cat's litter?",
+            "Ground_Truth": "One to nine",
+            "Prediction": "1\n9\nClowder",
+            "Correct": 0
+        },
+        {
+            "Query": "What was the punishment for smuggling cats from ancient Egypt?",
+            "Ground_Truth": "Death",
+            "Prediction": "Death",
+            "Correct": 1
+        },
+        {
+            "Query": "What is the name of the earliest ancestor of modern cats?",
+            "Ground_Truth": "Proailurus",
+            "Prediction": "Proailurus\n12\nUnknown",
+            "Correct": 0
+        },
+        {
+            "Query": "What is the biggest wildcat today?",
+            "Ground_Truth": "Siberian tiger",
+            "Prediction": "700",
+            "Correct": 0
+        },
+        {
+            "Query": "What is the smallest wildcat today?",
+            "Ground_Truth": "Black-footed cat",
+            "Prediction": "Unknown",
+            "Correct": 0
+        },
+        {
+            "Query": "Which goddess had a cat's head in Egyptian mythology?",
+            "Ground_Truth": "Bast",
+            "Prediction": "Bast",
+            "Correct": 1
+        },
+        {
+            "Query": "What letter appears on tabby cats according to legend?",
+            "Ground_Truth": "M",
+            "Prediction": "M",
+            "Correct": 1
+        },
+        {
+            "Query": "In Britain, what are black cats considered?",
+            "Ground_Truth": "Lucky",
+            "Prediction": "Clowder",
+            "Correct": 0
+        },
+        {
+            "Query": "What is the most popular pedigreed cat?",
+            "Ground_Truth": "Persian",
+            "Prediction": "1 2",
+            "Correct": 0
+        },
+        {
+            "Query": "What is the smallest pedigreed cat?",
+            "Ground_Truth": "Singapura",
+            "Prediction": "4",
+            "Correct": 0
+        },
+        {
+            "Query": "Why do some Siamese cats appear cross-eyed?",
+            "Ground_Truth": "Nerve wiring",
+            "Prediction": "Unknown",
+            "Correct": 0
+        },
+        {
+            "Query": "Where does the word \"tabby\" originate?",
+            "Ground_Truth": "Attabiyah",
+            "Prediction": "Tabby  Unknown",
+            "Correct": 0
+        },
+        {
+            "Query": "Which breed likes swimming?",
+            "Ground_Truth": "Turkish Van",
+            "Prediction": "Clowder",
+            "Correct": 0
+        },
+        {
+            "Query": "What is the oldest breed of cat?",
+            "Ground_Truth": "Egyptian Mau",
+            "Prediction": "Unknown",
+            "Correct": 0
+        },
+        {
+            "Query": "How much did Little Nicky cost?",
+            "Ground_Truth": "50,000",
+            "Prediction": "Unknown",
+            "Correct": 0
+        },
+        {
+            "Query": "How many whiskers does a cat usually have on each side?",
+            "Ground_Truth": "About 12",
+            "Prediction": "12\n10 \nClowder",
+            "Correct": 0
+        },
+        {
+            "Query": "What color does grass appear to cats?",
+            "Ground_Truth": "Red",
+            "Prediction": "Unknown",
+            "Correct": 0
+        },
+        {
+            "Query": "Who became a black vampire cat in folklore?",
+            "Ground_Truth": "Lilith",
+            "Prediction": "Adam",
+            "Correct": 0
+        },
+        {
+            "Query": "Which famous disappearing cat appears in Alice in Wonderland?",
+            "Ground_Truth": "Cheshire Cat",
+            "Prediction": "Cheshire Cat",
+            "Correct": 1
+        },
+        {
+            "Query": "In the original Cinderella, what was the fairy godmother?",
+            "Ground_Truth": "Cat",
+            "Prediction": "Unknown",
+            "Correct": 0
+        },
+        {
+            "Query": "What did cats in Holland's Moscow embassy detect?",
+            "Ground_Truth": "Microphones",
+            "Prediction": "Microphones 1",
+            "Correct": 0
+        },
+        {
+            "Query": "What are the tufts of hair in a cat's ears called?",
+            "Ground_Truth": "Ear furnishings",
+            "Prediction": "Ear furnishings\n1 \nUnknown",
+            "Correct": 0
+        },
+        {
+            "Query": "What is a cat's homing ability called?",
+            "Ground_Truth": "Psi-traveling",
+            "Prediction": "Unknown",
+            "Correct": 0
+        }
+    ]
+}

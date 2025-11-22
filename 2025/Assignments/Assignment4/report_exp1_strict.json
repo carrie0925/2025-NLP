@@ -1,0 +1,186 @@
+{
+    "Experiment": "Strict Prompt (Experiment)",
+    "Accuracy": 0.16666666666666666,
+    "Details": [
+        {
+            "Query": "How much of a day do cats spend sleeping?",
+            "Ground_Truth": "Two thirds",
+            "Prediction": "8",
+            "Correct": 0
+        },
+        {
+            "Query": "Why don't cats have a sweet tooth?",
+            "Ground_Truth": "Taste mutation",
+            "Prediction": "Cats cannot taste sweets.",
+            "Correct": 0
+        },
+        {
+            "Query": "How do cats keep their heads when chasing prey?",
+            "Ground_Truth": "Head level",
+            "Prediction": "Cats do not bob their heads up and down.",
+            "Correct": 0
+        },
+        {
+            "Query": "What is the technical term for a cat's hairball?",
+            "Ground_Truth": "Bezoar",
+            "Prediction": "The technical term for a cat's hairball is \"bezoar.\"",
+            "Correct": 0
+        },
+        {
+            "Query": "What is a group of cats called?",
+            "Ground_Truth": "Clowder",
+            "Prediction": "A clowder.",
+            "Correct": 1
+        },
+        {
+            "Query": "Which paw do most female cats prefer?",
+            "Ground_Truth": "Right paw",
+            "Prediction": "Unknown",
+            "Correct": 0
+        },
+        {
+            "Query": "Why can't cats climb down trees head first?",
+            "Ground_Truth": "Claw direction",
+            "Prediction": "Cats cannot climb down trees head first due to their inability to right themselves in mid-air.",
+            "Correct": 0
+        },
+        {
+            "Query": "How many sounds do cats make?",
+            "Ground_Truth": "About 100",
+            "Prediction": "100",
+            "Correct": 0
+        },
+        {
+            "Query": "Which animal's brain is most similar to a human's: cat or dog?",
+            "Ground_Truth": "Cat",
+            "Prediction": "Unknown.",
+            "Correct": 0
+        },
+        {
+            "Query": "How many domestic cats exist worldwide?",
+            "Ground_Truth": "500 million",
+            "Prediction": "The number of domestic cats exists worldwide is not directly stated, but there is information on recognized breeds. \n\nAnswer: Approximately 40",
+            "Correct": 0
+        },
+        {
+            "Query": "Where was the oldest known pet cat found?",
+            "Ground_Truth": "Cyprus",
+            "Prediction": "Cyprus",
+            "Correct": 1
+        },
+        {
+            "Query": "What resulted from burning cats during the Spanish Inquisition?",
+            "Ground_Truth": "More rats",
+            "Prediction": "Unknown",
+            "Correct": 0
+        },
+        {
+            "Query": "What happened to cats on St. John's Day in the Middle Ages?",
+            "Ground_Truth": "Burned",
+            "Prediction": "During the Middle Ages, people all over Europe would stuff them into sacks and toss the cats into bonfires.",
+            "Correct": 0
+        },
+        {
+            "Query": "Which pet is more popular in North America, cats or dogs?",
+            "Ground_Truth": "Cats",
+            "Prediction": "Dogs",
+            "Correct": 0
+        },
+        {
+            "Query": "What was the name of the first cat in space?",
+            "Ground_Truth": "Felicette",
+            "Prediction": "Felicette (a.k.a. \"Astrocat\")",
+            "Correct": 0
+        },
+        {
+            "Query": "What does the Latin word catus mean?",
+            "Ground_Truth": "Domestic cat",
+            "Prediction": "CATUS.",
+            "Correct": 0
+        },
+        {
+            "Query": "What sound might \"puss\" imitate?",
+            "Ground_Truth": "Hissing",
+            "Prediction": "hissing",
+            "Correct": 1
+        },
+        {
+            "Query": "How many people are bitten by cats annually in the U.S.?",
+            "Ground_Truth": "40,000",
+            "Prediction": "40,000",
+            "Correct": 1
+        },
+        {
+            "Query": "According to legend, how did God create the first cat on Noah's ark?",
+            "Ground_Truth": "Lion sneeze",
+            "Prediction": "There is no logical connection between the information provided and the question about God creating the first cat on Noah's ark. The statements in this passage are unrelated and do not establish a pattern or provide enough context for an accurate answer. Therefore, I will output 'Unknown'.",
+            "Correct": 0
+        },
+        {
+            "Query": "Whose hearing is better: a cat's or a dog's?",
+            "Ground_Truth": "Cat's",
+            "Prediction": "Dogs.",
+            "Correct": 0
+        },
+        {
+            "Query": "What is a cat's top running speed?",
+            "Ground_Truth": "31 mph",
+            "Prediction": "31 mph (49 km)",
+            "Correct": 0
+        },
+        {
+            "Query": "How high can a cat jump relative to its height?",
+            "Ground_Truth": "Five times",
+            "Prediction": "Unknown",
+            "Correct": 0
+        },
+        {
+            "Query": "What helps cats survive long falls?",
+            "Ground_Truth": "Righting reflex",
+            "Prediction": "The answer is the \"righting reflex\" and the cat's ability to absorb shock with its footpads.",
+            "Correct": 0
+        },
+        {
+            "Query": "Why do cats rub against people?",
+            "Ground_Truth": "Mark territory",
+            "Prediction": "Cats rub against people to be affectionate but also to mark out its territory with scent glands around its face and carry its scent on its tail area and paws.",
+            "Correct": 0
+        },
+        {
+            "Query": "How many times per second might a cat's larynx open and close while purring?",
+            "Ground_Truth": "Twenty five",
+            "Prediction": "25",
+            "Correct": 0
+        },
+        {
+            "Query": "How did Egyptians mourn a family cat's death?",
+            "Ground_Truth": "Shaved eyebrows",
+            "Prediction": "They shaved off their eyebrows.",
+            "Correct": 0
+        },
+        {
+            "Query": "What were 300,000 mummified cats once used for?",
+            "Ground_Truth": "Fertilizer",
+            "Prediction": "Unknown.",
+            "Correct": 0
+        },
+        {
+            "Query": "What is the typical size of a cat's litter?",
+            "Ground_Truth": "One to nine",
+            "Prediction": "The answer is 'Unknown'.",
+            "Correct": 0
+        },
+        {
+            "Query": "What was the punishment for smuggling cats from ancient Egypt?",
+            "Ground_Truth": "Death",
+            "Prediction": "Smuggling a cat out of ancient Egypt was punishable by death.",
+            "Correct": 0
+        },
+        {
+            "Query": "What is the name of the earliest ancestor of modern cats?",
+            "Ground_Truth": "Proailurus",
+            "Prediction": "Proailurus",
+            "Correct": 1
+        }
+    ]
+}
